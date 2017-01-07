@@ -1,5 +1,5 @@
-## ReactCasts #2:
-# Functions as Child Components
+## [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ)
+# [#2: Functions as Child Components](https://www.youtube.com/watch?v=WE3XAt9P8Ek)
 ---
 ## [example 1](./src/facc/example1.js)
 ## [example 2](./src/facc/example2.js)
