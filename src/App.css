@@ -1,0 +1,28 @@
+h1 {
+  font-size: 60px;
+}
+
+.app {
+  margin: 50px;
+  text-align: center;
+}
+
+.spacer {
+  height: 2000px;
+}
+
+.displayit {
+  position: fixed;
+  top: 10vh;
+  left: 20rem;
+}
+.spinit {
+  position: fixed;
+  top: 40vh;
+  left: 20rem;
+}
+.fadeit {
+  position: fixed;
+  top: 70vh;
+  left: 20rem;
+}
